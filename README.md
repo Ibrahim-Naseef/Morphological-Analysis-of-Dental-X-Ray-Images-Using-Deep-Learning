@@ -7,7 +7,7 @@ This project is currently under **patent process**. As a result, the code, datas
 ## 📋 Table of Contents
 - [📖 Introduction](#introduction)
 - [🎯 Objectives](#objectives)
-- [🛠️ Methodology](#methodology)
+- [🛠️ Methodology](##methodology)
 - [✨ Features](#features)
 - [📊 Results and Discussions](#results-and-discussions)
 - [🔮 Future Work](#future-work)
