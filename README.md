@@ -8,7 +8,7 @@ This project is currently under **patent process**. As a result, the code, datas
 - [📖 Introduction](#introduction)
 - [🎯 Objectives](#objectives)
 - [🛠️ Methodology](#methodology)
-- [✨ Features](#features)
+- [✨ Features](#Features)
 - [📊 Results and Discussions](#results-and-discussions)
 - [🔮 Future Work](#future-work)
 - [👥 Contributors](#contributors)
