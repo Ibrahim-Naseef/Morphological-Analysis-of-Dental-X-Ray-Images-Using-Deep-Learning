@@ -90,6 +90,9 @@ The automated analysis system significantly enhances diagnostic accuracy and eff
 ### Individual tooths(Masks) and Morphological Features
 ![image](https://github.com/Ibrahim-Naseef/Morphological-Analysis-of-Dental-X-Ray-Images-Using-Deep-Learning/assets/156147657/0e1fe6ef-438d-4594-878a-6fe1b57e7096)
 
+### Demo
+![Dent-Techand14morepages-Personal-MicrosoftEdge2024-05-1523-16-32-ezgif com-crop](https://github.com/Ibrahim-Naseef/Morphological-Analysis-of-Dental-X-Ray-Images-Using-Deep-Learning/assets/156147657/4d5f4cfc-c1c7-478a-b959-a2a8d66de78d)
+
 ## 🔮 Future Work
 
 Future advancements may include:
